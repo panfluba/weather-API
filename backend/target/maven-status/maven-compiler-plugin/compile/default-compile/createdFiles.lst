@@ -1,0 +1,7 @@
+com/example/weatherforecast/model/City.class
+com/example/weatherforecast/service/WeatherServiceImpl.class
+com/example/weatherforecast/controller/WeatherController.class
+com/example/weatherforecast/service/WeatherService.class
+com/example/weatherforecast/WeatherApplication.class
+com/example/weatherforecast/model/Main.class
+com/example/weatherforecast/model/Weather.class
